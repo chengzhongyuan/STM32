@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "bsp_clkconfig.h": "c",
+        "stm32f10x_rcc.h": "c",
+        "bsp_mcooutput.h": "c",
+        "stm32f10x.h": "c"
+    }
+}
